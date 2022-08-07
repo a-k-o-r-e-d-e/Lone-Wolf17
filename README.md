@@ -19,7 +19,7 @@
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/B7410E/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png"/> </a> 
+    <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/B7410E/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png"/> </a> 
 </p>
 
 <br/>
