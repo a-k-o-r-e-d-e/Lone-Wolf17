@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on Rust & Flutter Projects.
+- 👯 I’m looking to collaborate on Rust & Typescript Projects.
 
 - 📫 How to reach me **adeyanju.akorede1@gmail.com**
 
